@@ -38,6 +38,3 @@ The system integrates artificial intelligence, machine learning, location-based 
 - Groq LLM
 - Render
 
-## License
-
-This repository is intended for academic purposes.
